@@ -2,7 +2,6 @@
 Este repositório contém a solução para o case do iFood, que abrange desde o processamento inicial dos dados até a modelagem. A estrutura do repositório foi projetada para facilitar a organização e a colaboração.
 
 ## Estrutura do Repositório
-
 ifood-case/
 ├── data/                # Diretório para os datasets do projeto
 │   ├── raw/             # Dados originais e não tratados
